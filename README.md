@@ -1,1 +1,2 @@
-# rich_lara.github.io
+# light-quant
+.github.io
