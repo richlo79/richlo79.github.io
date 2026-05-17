@@ -1,2 +1,1 @@
-# light-quant
-.github.io
+# light-quant.github.io
